@@ -1,1 +1,7 @@
-p { background-color: red; }
+* {
+    color: fuchsia;
+  }
+ h1 {color: blue;}
+ h2 {color: brown;}
+ h4 {color: brown;}
+ p  {color: brown;}
