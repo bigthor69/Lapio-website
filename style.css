@@ -5,3 +5,7 @@
  h2 {color: brown;}
  h4 {color: brown;}
  p  {color: brown;}
+body {
+  margin: 0 auto;
+  max-width: 50em;
+}
