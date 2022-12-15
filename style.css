@@ -9,3 +9,12 @@ body {
   margin: 0 auto;
   max-width: 50em;
 }
+
+.box {
+    width: 400;
+    height: 700;
+    border: black;
+    background-color: ;
+    position: static;
+    left: 900px;
+}
