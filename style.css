@@ -1,0 +1,20 @@
+* {
+    color: fuchsia;
+  }
+ h1 {color: blue;}
+ h2 {color: brown;}
+ h4 {color: brown;}
+ p  {color: brown;}
+body {
+  margin: 0 auto;
+  max-width: 50em;
+}
+
+.box {
+    width: 400px;
+    height: 700px;
+    border: black;
+    background-color: ;
+    position: static;
+    left: 900px;
+}
